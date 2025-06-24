@@ -1,2 +1,4 @@
 # github.io
-Basic ontology of Russian heraldry
+Basic ontology of Russian heraldy
+
+Прежде чем воспроизвести файл heraldic_ontology_fin.html его требуется загрузить на свой компьютер (скачать через кнопку в правом верхнем углу). Далее открыть файл на своем компьютере
